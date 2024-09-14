@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://qhitasy.github.io/sitemap/sitemap.txt
